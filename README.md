@@ -22,7 +22,7 @@
 ---
 ## Índice de la Práctica
 ### Ejercicio 2:
-
+* **Documento:** [Ejercicio 2](proyecto-propio/ejercicio2.pdf)
 ### Ejercicio 3: Reglas de transformación básica
 * **Documento:** [Ejercicio 3](proyecto-propio/ejercicio3.pdf)
 ### Ejercicio 4: Transformación de ralaciones
