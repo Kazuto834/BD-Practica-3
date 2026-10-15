@@ -13,8 +13,9 @@
 ### Proyecto propio: Archivo compose.yaml para el elvantamiento de base de datos.
 * **Nota:** El archivo se encuentra en el repositorio de la práctica 1, puede acceder desde aquí: [Archivo .yaml](https://github.com/Kazuto834/BD-Practica-1/blob/main/entorno/compose.yaml) es el archivo que se utilizará para la elavoración del ejercicio 6 de esta práctica.
 
-## Proyecto asignado:
+### Proyecto asignado:
 **Obra pública municipal.**
+
 **Repositorio donde se encuentra el fork del proyecto asignado:** [Fork del proyecto asignado](https://github.com/Kazuto834/Fork-PublicMunicipalWorks_DWH)
 **Identificador de confirmación (Commit ID):** commit 59a0f9d96f6def17b3f9cb109bc37314a48c2cb6
 
