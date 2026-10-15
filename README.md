@@ -23,12 +23,12 @@
 ## Índice de la Práctica
 ### Ejercicio 2:
 
-### Ejercicio 3:
-
-### Ejercicio 4:
-
-### Ejercicio 5:
-
+### Ejercicio 3: Reglas de transformación básica
+* **Documento:** [Ejercicio 3](articulos/ejercicio3.pdf)
+### Ejercicio 4: Transformación de ralaciones
+* **Documento:** [Ejercicio 4](articulos/ejercicio4.pdf)
+### Ejercicio 5: Entidades débiles y jerarquías
+* **Documento:** [Ejercicio 5](articulos/ejercicio5.pdf)
 ### Ejercicio 6:
 
 ### Ejercicio 7: 
