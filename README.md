@@ -21,7 +21,7 @@
 
 ---
 ## Índice de la Práctica
-### Ejercicio 2:
+### Ejercicio 2: Inventario del modelo EER del proyecto propio
 * **Documento:** [Ejercicio 2](proyecto-propio/ejercicio2.pdf)
 ### Ejercicio 3: Reglas de transformación básica
 * **Documento:** [Ejercicio 3](proyecto-propio/ejercicio3.pdf)
@@ -29,8 +29,13 @@
 * **Documento:** [Ejercicio 4](proyecto-propio/ejercicio4.pdf)
 ### Ejercicio 5: Entidades débiles y jerarquías
 * **Documento:** [Ejercicio 5](proyecto-propio/ejercicio5.pdf)
-### Ejercicio 6:
-
-### Ejercicio 7: 
-
-### Ejercicio 8:
+### Ejercicio 6: Esquema relacional, DDL ejecutado y diccionario
+* **Documento:** [Ejercicio 6](proyecto-propio/ejercicio6.pdf)
+* **Archivo 1:** [Esquema.sql](proyecto-propio/sql/esquema.sql)
+* **Archivo 2:** [Prueba de restricciones.sql](proyecto-propio/sql/prueba-de-restricciones.sql)
+* **Archivo 3:** [diccionario de datos](proyecto-propio/diccionario-datos.xlsx)
+* **Archivo 4:** [diagrama relacional](proyecto-propio/diagrama-relacional.png)
+### Ejercicio 7: El esquema del proyecto asignado
+* **Documento:** [Ejercicio 7](proyecto-asignado/ejercicio7.pdf)
+### Ejercicio 8: Cambio de esquema por integrante
+* **Documento:** []()
