@@ -24,11 +24,11 @@
 ### Ejercicio 2:
 
 ### Ejercicio 3: Reglas de transformación básica
-* **Documento:** [Ejercicio 3](articulos/ejercicio3.pdf)
+* **Documento:** [Ejercicio 3](proyecto-propio/ejercicio3.pdf)
 ### Ejercicio 4: Transformación de ralaciones
-* **Documento:** [Ejercicio 4](articulos/ejercicio4.pdf)
+* **Documento:** [Ejercicio 4](proyecto-propio/ejercicio4.pdf)
 ### Ejercicio 5: Entidades débiles y jerarquías
-* **Documento:** [Ejercicio 5](articulos/ejercicio5.pdf)
+* **Documento:** [Ejercicio 5](proyecto-propio/ejercicio5.pdf)
 ### Ejercicio 6:
 
 ### Ejercicio 7: 
